@@ -1,1 +1,1 @@
-again set up emviroment jenkins and githook
+set up emviroment jenkins and githook
